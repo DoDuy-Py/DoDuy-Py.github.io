@@ -1,0 +1,15 @@
+Tìm kiếm nhân viên theo tên - Admin
+Tìm kiếm tên nhân viên (lọc theo chức vụ) - Admin(full thông tin), user(Chỉ hiển thị tên, age,
+giới tính, chức vụ)
+
+
+Thêm, sửa, xóa thông tin nhân viên - Admin
+Xuất file Json thông tin nhân viên - Admin(full thông tin), user(Chỉ hiển thị tên, age,
+giới tính, chức vụ)
+
+
+
+xuất file excel - Admin, user
+Ứng tuyển vào công ty - User
+Xem các record ứng tuyển - Admin
+Đăng nhập, đăng ký

@@ -1,0 +1,14 @@
+# Code này chưa có mã hóa cả file txt!
+* Cách dung:
+b1: Bấm vào "Make Key" để tạo ra 1 mã
+b2: Nhập hoặc paste đoạn tin nhắn cần mã hóa vào box "input"
+b3: Bấm "Cipher" để mã hóa hoặc "decryp" để giải đoạn mã
+
+#Chú Ý:
+- Tạo mã là random có thể xem trước mã tại file key.txt, Có thể tạo nhiều lần
+để được key vừa ý hoặc có thể sửa key trược tiếp trong file.
+- Muốn giải mã thì phải nhập đúng key lần trước đã dùng để mã hóa
+- Vào file text key.txt để biết key và có thể gửi cho người khác!
+- Mã hóa xong nhớ lưu lại key ra nơi khác và xóa file key.txt trong thu mục code.
+
+# Version 3 sẽ làm mã hóa được cả file word và text!

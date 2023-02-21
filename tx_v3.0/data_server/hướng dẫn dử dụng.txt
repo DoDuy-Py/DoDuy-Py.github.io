@@ -1,0 +1,31 @@
+* Hướng dẫn:
+
++ Chạy file code thì import các thư viện sau:
+pip install MySQLdb
+pip install mysql.connector
+- imoort thêm database lên local tránh bị lỗi khi chạy file create_db_tx.py
+- Tải xampp appche hoặc phần mềm tương tự để lưu data.
+
+- Chọn số tiền muốn chơi (có thể bấm nhiều lần để tăng số tiền) và bấm
+vào chữ "CUOC" bên tài hoặc xỉu thì mới có thể bấm vào chữ "DAT CUOC".
+
+- Cược thành công sẽ xuất hiện chữ "OKEY" thay vì chữ "None" là chưa đặt.
+
+- Nên suy nghĩ kỹ số tiền rồi chỉ bấm "DAT CUOC" 1 lần. Bị lỗi hiển thị
+Đặt cược nhiều lần nhưng không hiển thị rõ số tiền. (Lỗi hiển thị thôi
+chứ vẫn +- tiền bình thường)
+
+*Cập nhật so với v2.0:
+- Lưu dữ liệu trên localhost, nâng cấp hình ảnh mặt xúc xắc, hoàn thiện
+chức năng nạp - rút tiền (Lưu só dư trên local)
+
+* Hạn chế:
+- Vẫn chơi off bằng 1 tài khoản chưa có đăng nhập, đăng ký.
+- 1 vài lỗi vặt (không đáng kể như hiển thị lỗi số tiền nếu người chơi bấm
+"DAT CUOC" nhiều lần, chưa edit hình ảnh chỉnh chu, lỗi không click được
+vào rút tiền khi đang chơi)
+
+* Nếu có v4.0 sẽ UPDATE:
+- Đăng nhập, đăng ký, desgin hình ảnh chỉnh chu.
+- Nâng cấp lên hosting, server để chơi online
+- Lấy API nạp tiền rút tiền của momo hoặc ngân hàng để tự động nạp rút

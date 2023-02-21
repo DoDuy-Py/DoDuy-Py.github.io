@@ -1,0 +1,7 @@
+Thư viện cần cài đặt in comanline:
+
+- pip install googletrans
+- pip install googletrans==3.1.0a0
+- pip install Pillow
+
++ install font

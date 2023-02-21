@@ -1,0 +1,15 @@
+- Install thư viện:
+pip install MySQLdb
+pip install openpyxl
+pip install mysql.connector
+
+*Database: MySQL
+- import datebase:
++ Kéo file employees_manager.sql vào localhost (để có sẵn dữ liệu)
+hoặc tạo database employees_manager rồi chạy file create_db.py để tạo các bảng (Không có sẵn dữ liệu)
+
+*Run
+- Chạy file display_first.py trước rồi bấm đăng nhập:
+
++ Đăng nhập với tài khoản "admin" mật khẩu "123456aA@" để vào giao diện ADMIN hoặc chạy file display.py
++ Các tài khoản khác sẽ vào giao diện USER hoặc chạy file display_user.py
